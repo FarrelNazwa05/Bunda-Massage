@@ -1,0 +1,22 @@
+@import "tailwindcss";
+
+@theme {
+  --font-serif: "Playfair Display", Georgia, serif;
+  --font-sans: "Plus Jakarta Sans", system-ui, -apple-system, sans-serif;
+  --color-brand-canvas: #f4f2ec;
+  --color-brand-surface: #ebe9e1;
+  --color-brand-forest: #163828;
+  --color-brand-forest-dark: #0f281c;
+  --color-brand-moss: #2c5b43;
+  --color-brand-border: #d8dcd2;
+}
+
+body {
+  font-family: var(--font-sans);
+  background-color: #f4f2ec;
+  color: #14231b;
+}
+
+.font-editorial {
+  font-family: var(--font-serif);
+}

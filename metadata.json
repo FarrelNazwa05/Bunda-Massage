@@ -1,0 +1,6 @@
+{
+  "name": "BUNDA Traditional Massage",
+  "description": "Website resmi BUNDA Traditional Massage Bali - Pijat tradisional dengan teknik turun-temurun untuk memulihkan tubuh dan pikiran.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
